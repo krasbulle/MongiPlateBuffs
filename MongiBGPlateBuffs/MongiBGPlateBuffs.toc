@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: MongiBGPlateBuffs
+## Notes: Buffs on plate
+## Author: Mongidawg
+## SavedVariables:
+## Version: 1.0.1
+
+MongiBGPlateBuffs.lua
+MongiBGPlateBuffs.xml
